@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+D:\编程与开发\java\LibraryProJect_2017\.metadata\.plugins\org.eclipse.jdt.core

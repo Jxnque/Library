@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/mysql-connector-5.1.8.jar  
+Main-Class: LibraryProJect_2017.Login
+
